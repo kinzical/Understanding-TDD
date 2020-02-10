@@ -12,6 +12,7 @@ namespace Tests.UnitTests.Services
         {
             //_stack = new StackS();
         }
+        
 
         [Test]
         public void Creation()
