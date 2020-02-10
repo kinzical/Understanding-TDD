@@ -46,7 +46,7 @@ namespace Tests.UnitTests.Services
             s.Push(3);
             int value =s.Pop();
             Assert.AreEqual(3,value);
-            Assert.AreEqual(2,s.Size)
+            Assert.AreEqual(2,s.Size);
         }
     }
 }
