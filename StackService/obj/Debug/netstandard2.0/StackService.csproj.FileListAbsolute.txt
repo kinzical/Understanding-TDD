@@ -1,0 +1,9 @@
+/home/kkamdar/Documents/c# tutorials/unit-testing-using-nunit/StackService/bin/Debug/netstandard2.0/StackService.deps.json
+/home/kkamdar/Documents/c# tutorials/unit-testing-using-nunit/StackService/bin/Debug/netstandard2.0/StackService.dll
+/home/kkamdar/Documents/c# tutorials/unit-testing-using-nunit/StackService/bin/Debug/netstandard2.0/StackService.pdb
+/home/kkamdar/Documents/c# tutorials/unit-testing-using-nunit/StackService/obj/Debug/netstandard2.0/StackService.csprojAssemblyReference.cache
+/home/kkamdar/Documents/c# tutorials/unit-testing-using-nunit/StackService/obj/Debug/netstandard2.0/StackService.csproj.CoreCompileInputs.cache
+/home/kkamdar/Documents/c# tutorials/unit-testing-using-nunit/StackService/obj/Debug/netstandard2.0/StackService.AssemblyInfoInputs.cache
+/home/kkamdar/Documents/c# tutorials/unit-testing-using-nunit/StackService/obj/Debug/netstandard2.0/StackService.AssemblyInfo.cs
+/home/kkamdar/Documents/c# tutorials/unit-testing-using-nunit/StackService/obj/Debug/netstandard2.0/StackService.dll
+/home/kkamdar/Documents/c# tutorials/unit-testing-using-nunit/StackService/obj/Debug/netstandard2.0/StackService.pdb
