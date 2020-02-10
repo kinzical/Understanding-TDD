@@ -20,7 +20,7 @@ namespace Tests.UnitTests.Services
             StackS<int> s = new StackS<int>(3);
             Assert.AreEqual(0,s.Size);
         }
-        StackS<int> s = new StackS<int>(3);
+        //StackS<int> s = new StackS<int>(3);
         /*[Test]
         public void PushOp()
         {
@@ -41,6 +41,7 @@ namespace Tests.UnitTests.Services
         [Test]
         public void Push_Pop()
         {
+            StackS<int> s = new StackS<int>(3);
             s.Push(1);
             s.Push(2);
             s.Push(3);
@@ -48,5 +49,18 @@ namespace Tests.UnitTests.Services
             Assert.AreEqual(3,value);
             Assert.AreEqual(2,s.Size);
         }
+        [Test]
+        public void PopException()
+        {
+            StackS<int> s = new StackS<int>(3);
+            Assert.Throws<ProhibitedPop>(() => s.Pop());
+        }
+        [Test]
+        public void PushException()
+        {
+            StackS<int> s = new StackS<int>(3);
+            Assert.Throws<ProhibitedPush>(() => s.Pop());
+        }
+        
     }
 }
